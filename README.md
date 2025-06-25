@@ -27,7 +27,7 @@ I'm a passionate **Software Engineer** with over **1 year of hands-on experience
 👨‍💻 Associate Software Engineer at **NearTekPod**  
 ⚛️ Skilled in **React.js**, **Next.js**, **Node.js**, **PHP**, and **WordPress**  
  ☁️ Proficient in **AWS (EC2, S3)** and **Oracle Cloud Infrastructure (OCI)**  
- 🔗 Experienced with **REST APIs**, **MongoDB**, and **MySQL**
+ 🔗 Experienced with **REST APIs**, **MongoDB**, and **MySQLDB**
 
 ---
 
