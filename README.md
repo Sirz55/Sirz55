@@ -26,8 +26,8 @@ I'm a passionate **Software Engineer** with over **1 year of hands-on experience
 
 👨‍💻 Associate Software Engineer at **NearTekPod**  
 ⚛️ Skilled in **React.js**, **Next.js**, **Node.js**, **PHP**, and **WordPress**  
- ☁️ Proficient in **AWS (EC2, S3)** and **Oracle Cloud Infrastructure (OCI)**  
- 🔗 Experienced with **REST APIs**, **MongoDB**, and **MySQLDB**
+☁️ Proficient in **AWS (EC2, S3)** and **Oracle Cloud Infrastructure (OCI)**  
+🔗 Experienced with **REST APIs**, **MongoDB**, and **MySQLDB**
 
 ---
 
@@ -54,6 +54,21 @@ I'm a passionate **Software Engineer** with over **1 year of hands-on experience
 
 ---
 
+## 💼 Sureshkumar M – Developer Portfolio
+
+This is my personal portfolio website built with **React + TypeScript + Vite + Tailwind CSS**.
+
+### 🚀 Live Site  
+👉 [https://sureshkumar-portfolio.vercel.app](https://sureshkumar-portfolio.vercel.app)
+
+### 🛠️ Tech Stack  
+- Vite + React + TypeScript  
+- Tailwind CSS for styling  
+- EmailJS for contact form integration  
+- Hosted on Vercel  
+
+---
+
 ## 🎓 Education
 
 **Bachelor of Engineering (ECE)**  
@@ -64,10 +79,10 @@ Anna University, Chennai (2019 – 2023)
 
 ## 📜 Certifications
 
- 🏅 **Oracle Cloud Infrastructure (OCI) Foundation** – Oracle  
- 🏅 **MERN Stack Development** – Simplilearn  
- 🏅 **AWS Cloud Basics** – Simplilearn  
- 🏅 **PHP Fundamentals** – Simplilearn  
+🏅 **Oracle Cloud Infrastructure (OCI) Foundation** – Oracle  
+🏅 **MERN Stack Development** – Simplilearn  
+🏅 **AWS Cloud Basics** – Simplilearn  
+🏅 **PHP Fundamentals** – Simplilearn  
 
 ---
 
