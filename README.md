@@ -36,9 +36,9 @@
 <td valign="top" width="52%">
  
 - 💼 **Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Full Stack Developer
-- 🏢 **Company** &nbsp;&nbsp;&nbsp;: NearTekPod, Trichy
+- 🏢 **Company** &nbsp;&nbsp;&nbsp;: NearTekPod, Tiruchirappalli
 - 🎓 **Education** &nbsp;: B.E. ECE — KRCE (2019–2023)
-- 📍 **Location** &nbsp;&nbsp;&nbsp;: Trichy, Tamil Nadu, India
+- 📍 **Location** &nbsp;&nbsp;&nbsp;: Tiruchirappalli, Tamil Nadu, India
 - 🌐 **Portfolio** &nbsp;&nbsp;&nbsp;: [sureshkumar-portfolio.vercel.app](https://sureshkumar-portfolio.vercel.app)
 - 📬 **Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: sureshmurugan919@gmail.com
 - 🟢 **Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Open to Full-Time Roles
@@ -227,24 +227,37 @@ Sleek portfolio built with React + TypeScript + Vite + TailwindCSS with EmailJS 
 <br/>
 
 <!-- ====================================================== -->
-<!--                OPEN TO ROLES                           -->
+<!--          OPEN TO ROLES - SPOTIFY CARD STYLE            -->
 <!-- ====================================================== -->
 ## 🎯 Open To These Roles
-
+ 
 <div align="center">
-
-`Full Stack Developer` &nbsp; `Data Analyst` &nbsp; `Prompt Engineer`
-`Functional Consultant` &nbsp; `Business Analyst` &nbsp; `AI Tools Trainer`
-
-**Pan India &nbsp;·&nbsp; Remote &nbsp;·&nbsp; Hybrid &nbsp;·&nbsp; On-site**
-
-</div>
-
+ 
+![Now Hiring](https://img.shields.io/badge/●_NOW_HIRING-2ecc71?style=for-the-badge&labelColor=0D1117&color=0D1117&logoColor=2ecc71)
+ 
 <br/>
-
+ 
+![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-161b22?style=flat-square&logo=react&logoColor=58A6FF)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-161b22?style=flat-square&logo=googleanalytics&logoColor=FF9900)
+![Prompt Engineer](https://img.shields.io/badge/Prompt_Engineer-161b22?style=flat-square&logo=openai&logoColor=9b59b6)
+![Functional Consultant](https://img.shields.io/badge/Functional_Consultant-161b22?style=flat-square&logo=salesforce&logoColor=2ecc71)
+![Business Analyst](https://img.shields.io/badge/Business_Analyst-161b22?style=flat-square&logo=notion&logoColor=e74c3c)
+![AI Tools Trainer](https://img.shields.io/badge/AI_Tools_Trainer-161b22?style=flat-square&logo=anthropic&logoColor=FF9900)
+ 
+<br/>
+ 
+![Pan India](https://img.shields.io/badge/Pan_India-1f6feb?style=flat-square)
+![Remote](https://img.shields.io/badge/Remote-238636?style=flat-square)
+![Hybrid](https://img.shields.io/badge/Hybrid-8957e5?style=flat-square)
+![On-site](https://img.shields.io/badge/On--site-da3633?style=flat-square)
+![Immediate Joiner](https://img.shields.io/badge/Immediate_Joiner-2ecc71?style=flat-square)
+ 
+</div>
+ 
+<br/>
 <!-- ====================================================== -->
 <!--                CONNECT                                 -->
-<!-- ====================================================== -->
+
 ## 🤝 Let's Connect
 
 <div align="center">
