@@ -1,13 +1,13 @@
 <!-- ====================================================== -->
 <!--                TOP WAVE HEADER                         -->
 <!-- ====================================================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Sureshkumar%20M&fontSize=62&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20WordPress%20%7C%20AWS%20%7C%20Open%20to%20Work&descSize=17&descColor=fff&descAlignY=57"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Sureshkumar%20M&fontSize=62&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%Stack%20%7C%20WordPress%20%7C%20AWS%20%7C%20Open%20to%20Work&descSize=17&descColor=fff&descAlignY=57"/>
 
 <!-- ====================================================== -->
-<!--                ANIMATED TYPING                         -->
+<!--                ANIMATED TYPING  (FIXED - NO EMOJIS)   -->
 <!-- ====================================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=👋+Hi+there!+I'm+Sureshkumar+M;💻+Full+Stack+Developer+%7C+1%2B+Year+Experience;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+WordPress;☁️+AWS+Cloud+%7C+Oracle+OCI+Certified;📊+Aspiring+Data+Analyst+%7C+Prompt+Engineer;🚀+Immediate+Joiner+%7C+Open+to+Full-Time+Roles!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Hi+there!+I'm+Sureshkumar+M;Full+Stack+Developer+%7C+1%2B+Year+Experience;React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+WordPress;AWS+Cloud+%7C+Oracle+OCI+Certified;Aspiring+Data+Analyst+%7C+Prompt+Engineer;Immediate+Joiner+%7C+Open+to+Full-Time+Roles!" alt="Typing SVG"/>
 </p>
 
 <!-- ====================================================== -->
@@ -25,26 +25,35 @@
 <br/>
 
 <!-- ====================================================== -->
-<!--                ABOUT ME - YAML STYLE                   -->
+<!--          ABOUT ME - GIF + INFO SIDE BY SIDE            -->
 <!-- ====================================================== -->
 ## 🧑‍💻 About Me
 
-```yaml
-┌─────────────────────────────────────────────────────────┐
-│                   SURESHKUMAR M                         │
-├─────────────────────────────────────────────────────────┤
-│  Role        :  Full Stack Developer                    │
-│  Experience  :  1+ Year @ NearTekPod, Trichy            │
-│  Education   :  B.E. ECE — KRCE, Anna University        │
-│                 (2019 – 2023)                           │
-│  Location    :  Trichy, Tamil Nadu, India  📍           │
-│  Portfolio   :  sureshkumar-portfolio.vercel.app        │
-│  Email       :  sureshmurugan919@gmail.com              │
-│  Status      :  🟢 Open to Full-Time Roles              │
-│  Preference  :  On-site | Remote | Hybrid | Pan India   │
-└─────────────────────────────────────────────────────────┘
-```
+<div align="center">
+ 
+<table>
+<tr>
+<td valign="top" width="52%">
+ 
+- 💼 **Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Full Stack Developer
+- 🏢 **Company** &nbsp;&nbsp;&nbsp;: NearTekPod, Trichy
+- 🎓 **Education** &nbsp;: B.E. ECE — KRCE (2019–2023)
+- 📍 **Location** &nbsp;&nbsp;&nbsp;: Trichy, Tamil Nadu, India
+- 🌐 **Portfolio** &nbsp;&nbsp;&nbsp;: [sureshkumar-portfolio.vercel.app](https://sureshkumar-portfolio.vercel.app)
+- 📬 **Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: sureshmurugan919@gmail.com
+- 🟢 **Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Open to Full-Time Roles
+- 🗺️ **Preference** &nbsp;: On-site · Remote · Hybrid · Pan India
+ 
+</td>
+<td valign="top" width="48%">
+ 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="coding gif"/>
+ 
+</td>
+</tr>
+</table>
 
+ </div>
 <br/>
 
 <!-- ====================================================== -->
@@ -71,19 +80,19 @@
 
 <div align="center">
 
-**⚛️ Frontend**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind&perline=8"/>
 
-**⚙️ Backend & CMS**
+**Backend & CMS**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress&perline=8"/>
 
-**🗄️ Database & Cloud**
+**Database & Cloud**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&perline=8"/>
 
-**🔧 Tools & Platforms**
+**Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux&perline=8"/>
 
@@ -111,8 +120,6 @@ End-to-end device registration & claims management system on WordPress + PHP, de
 
 > ☁️ **Cut cloud costs by 15%**
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0A0A?style=flat-square&logo=github)](https://github.com/Sirz55)
-
 </td>
 <td width="50%" valign="top" align="left">
 
@@ -125,8 +132,6 @@ End-to-end device registration & claims management system on WordPress + PHP, de
 Drag-and-drop form builder plugin with AJAX save/fetch, email notifications & DataTables admin panel integration.
 
 > 📉 **Reduced data entry by 40%**
-
-[![Repo](https://img.shields.io/badge/View_Repo-0A0A0A?style=flat-square&logo=github)](https://github.com/Sirz55)
 
 </td>
 </tr>
@@ -142,8 +147,6 @@ Internal business workflow tool with dynamic UI management built in Next.js for 
 
 > ⚡ **Improved efficiency by 25%**
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0A0A?style=flat-square&logo=github)](https://github.com/Sirz55)
-
 </td>
 <td width="50%" valign="top" align="left">
 
@@ -155,7 +158,7 @@ Internal business workflow tool with dynamic UI management built in Next.js for 
 
 Sleek portfolio built with React + TypeScript + Vite + TailwindCSS with EmailJS contact integration, deployed on Vercel.
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-000?style=flat-square)](https://sureshkumar-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel)](https://sureshkumar-portfolio.vercel.app)
 
 </td>
 </tr>
@@ -230,10 +233,10 @@ Sleek portfolio built with React + TypeScript + Vite + TailwindCSS with EmailJS 
 
 <div align="center">
 
-`💻 Full Stack Developer` &nbsp; `📊 Data Analyst` &nbsp; `🤖 Prompt Engineer`
-`🔧 Functional Consultant` &nbsp; `📋 Business Analyst` &nbsp; `🧠 AI Tools Trainer`
+`Full Stack Developer` &nbsp; `Data Analyst` &nbsp; `Prompt Engineer`
+`Functional Consultant` &nbsp; `Business Analyst` &nbsp; `AI Tools Trainer`
 
-**📍 Pan India &nbsp;·&nbsp; Remote &nbsp;·&nbsp; Hybrid &nbsp;·&nbsp; On-site**
+**Pan India &nbsp;·&nbsp; Remote &nbsp;·&nbsp; Hybrid &nbsp;·&nbsp; On-site**
 
 </div>
 
@@ -255,7 +258,7 @@ Sleek portfolio built with React + TypeScript + Vite + TailwindCSS with EmailJS 
 <br/>
 
 <div align="center">
-  <i>⭐ If you find my work useful, feel free to star my repos and connect with me!</i>
+  <i>If you find my work useful, feel free to star my repos and connect with me!</i>
 </div>
 
 <br/>
