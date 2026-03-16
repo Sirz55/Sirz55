@@ -7,7 +7,7 @@
 <!--                ANIMATED TYPING                         -->
 <!-- ====================================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=680&lines=👋+Hi+there!+I'm+Sureshkumar+M;💻+Full+Stack+Developer+%7C+1%2B+Year+Experience;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+WordPress;☁️+AWS+Cloud+%7C+Oracle+OCI+Certified;📊+Aspiring+Data+Analyst+%7C+Prompt+Engineer;🚀+Immediate+Joiner+%7C+Open+to+Full-Time+Roles!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=👋+Hi+there!+I'm+Sureshkumar+M;💻+Full+Stack+Developer+%7C+1%2B+Year+Experience;⚛️+React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+WordPress;☁️+AWS+Cloud+%7C+Oracle+OCI+Certified;📊+Aspiring+Data+Analyst+%7C+Prompt+Engineer;🚀+Immediate+Joiner+%7C+Open+to+Full-Time+Roles!" alt="Typing SVG"/>
 </p>
 
 <!-- ====================================================== -->
@@ -18,7 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A0A0A?style=for-the-badge)](https://sureshkumar-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshkumar-m-77424723a)
 [![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshmurugan919@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=58A6FF&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sirz55&style=for-the-badge&color=58A6FF&label=Profile+Views)](https://github.com/Sirz55)
 
 </div>
 
@@ -111,7 +111,7 @@ End-to-end device registration & claims management system on WordPress + PHP, de
 
 > ☁️ **Cut cloud costs by 15%**
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0A0A?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Repo](https://img.shields.io/badge/View_Repo-0A0A0A?style=flat-square&logo=github)](https://github.com/Sirz55)
 
 </td>
 <td width="50%" valign="top" align="left">
@@ -126,7 +126,7 @@ Drag-and-drop form builder plugin with AJAX save/fetch, email notifications & Da
 
 > 📉 **Reduced data entry by 40%**
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0A0A?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Repo](https://img.shields.io/badge/View_Repo-0A0A0A?style=flat-square&logo=github)](https://github.com/Sirz55)
 
 </td>
 </tr>
@@ -142,7 +142,7 @@ Internal business workflow tool with dynamic UI management built in Next.js for 
 
 > ⚡ **Improved efficiency by 25%**
 
-[![Repo](https://img.shields.io/badge/View_Repo-0A0A0A?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Repo](https://img.shields.io/badge/View_Repo-0A0A0A?style=flat-square&logo=github)](https://github.com/Sirz55)
 
 </td>
 <td width="50%" valign="top" align="left">
@@ -153,7 +153,7 @@ Internal business workflow tool with dynamic UI management built in Next.js for 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
-Sleek portfolio site built with React + TypeScript + Vite + TailwindCSS, with EmailJS contact integration, deployed on Vercel.
+Sleek portfolio built with React + TypeScript + Vite + TailwindCSS with EmailJS contact integration, deployed on Vercel.
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-000?style=flat-square)](https://sureshkumar-portfolio.vercel.app)
 
@@ -170,17 +170,17 @@ Sleek portfolio site built with React + TypeScript + Vite + TailwindCSS, with Em
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sirz55&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="47%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="41%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirz55&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="41%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sirz55&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="60%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sirz55&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true" width="96%"/>
 </div>
 
 <br/>
@@ -191,7 +191,7 @@ Sleek portfolio site built with React + TypeScript + Vite + TailwindCSS, with Em
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=5&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sirz55&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=5&row=1&column=7"/>
 </div>
 
 <br/>
@@ -202,7 +202,7 @@ Sleek portfolio site built with React + TypeScript + Vite + TailwindCSS, with Em
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github.com/Sirz55/Sirz55/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 <br/>
