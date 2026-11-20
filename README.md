@@ -1,282 +1,185 @@
-<!-- ====================================================== -->
-<!--                TOP WAVE HEADER                         -->
-<!-- ====================================================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Sureshkumar%20M&fontSize=62&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%Stack%20%7C%20WordPress%20%7C%20AWS%20%7C%20Open%20to%20Work&descSize=17&descColor=fff&descAlignY=57"/>
-
-<!-- ====================================================== -->
-<!--                ANIMATED TYPING  (FIXED - NO EMOJIS)   -->
-<!-- ====================================================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Hi+there!+I'm+Sureshkumar+M;Full+Stack+Developer+%7C+1%2B+Year+Experience;React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+WordPress;AWS+Cloud+%7C+Oracle+OCI+Certified;Aspiring+Data+Analyst+%7C+Prompt+Engineer;Immediate+Joiner+%7C+Open+to+Full-Time+Roles!" alt="Typing SVG"/>
-</p>
-
-<!-- ====================================================== -->
-<!--                SOCIAL BADGES                           -->
-<!-- ====================================================== -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A0A0A?style=for-the-badge)](https://sureshkumar-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshkumar-m-77424723a)
-[![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshmurugan919@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sirz55&style=for-the-badge&color=58A6FF&label=Profile+Views)](https://github.com/Sirz55)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:050816,45:0B1B4D,100:0E7AC4&text=Sureshkumar%20M&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI-Enabled%20Development&descSize=20&descColor=BAE6FD&descAlignY=58&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&height=40&lines=I+build+web+apps+that+save+teams+time+and+money;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PHP+%C2%B7+WordPress+%C2%B7+AWS;Oracle+Agentic+AI+Foundations+Associate+(2026);Open+to+work+%E2%80%94+Immediate+Joiner" alt="typing"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-Immediate%20Joiner%20%C2%B7%20On--site%20%C2%B7%20Remote%20%C2%B7%20Hybrid-16A34A?style=for-the-badge&labelColor=050816"/>
+
+<br/>
+
+<a href="https://sureshkumar-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sureshkumar-m-77424723a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sureshmurugan919@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Sirz55"><img src="https://img.shields.io/badge/GitHub-Sirz55-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-<!-- ====================================================== -->
-<!--          ABOUT ME - GIF + INFO SIDE BY SIDE            -->
-<!-- ====================================================== -->
-## 🧑‍💻 About Me
+## 👤 About
 
-<div align="center">
- 
+Full-stack engineer from **Tiruchirappalli, India** with **1+ year of professional experience** building web apps with **React, Next.js, Node.js, PHP/WordPress and MongoDB**, deployed on **AWS**. I use AI tools (ChatGPT, Claude, GitHub Copilot) daily to build, debug and optimize faster, and I'm an **Oracle Agentic AI Foundations Associate (2026)**.
+
 <table>
 <tr>
-<td valign="top" width="52%">
- 
-- 💼 **Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Full Stack Developer
-- 🏢 **Company** &nbsp;&nbsp;&nbsp;: NearTekPod, Tiruchirappalli
-- 🎓 **Education** &nbsp;: B.E. ECE — KRCE (2019–2023)
-- 📍 **Location** &nbsp;&nbsp;&nbsp;: Tiruchirappalli, Tamil Nadu, India
-- 🌐 **Portfolio** &nbsp;&nbsp;&nbsp;: [sureshkumar-portfolio.vercel.app](https://sureshkumar-portfolio.vercel.app)
-- 📬 **Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: sureshmurugan919@gmail.com
-- 🟢 **Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Open to Full-Time Roles
-- 🗺️ **Preference** &nbsp;: On-site · Remote · Hybrid · Pan India
- 
+<td width="25%" align="center"><b>💼 Role</b><br/>Full-Stack Engineer</td>
+<td width="25%" align="center"><b>⏱️ Experience</b><br/>1+ year</td>
+<td width="25%" align="center"><b>🎓 Education</b><br/>B.E. ECE · 2023</td>
+<td width="25%" align="center"><b>🚀 Notice</b><br/>Immediate joiner</td>
+</tr>
+</table>
+
+<br/>
+
+## 💥 Impact at NearTekPod
+
+<sub>Associate Software Engineer · Feb 2024 – Mar 2025 · Tiruchirappalli</sub>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/DATA%20ENTRY-%E2%86%93%2040%25-2563EB?style=for-the-badge&labelColor=0F172A"/><br/><br/>
+<b>WordPress Form Builder Plugin</b><br/>
+<sub>AJAX · Custom Post Types · DataTables</sub>
 </td>
-<td valign="top" width="48%">
- 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="coding gif"/>
- 
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/AWS%20COST-%E2%86%93%2015%25-059669?style=for-the-badge&labelColor=0F172A"/><br/><br/>
+<b>Warranty &amp; Claim Platform</b><br/>
+<sub>EC2 · automated AMI recycling</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/EFFICIENCY-%E2%86%91%2025%25-D97706?style=for-the-badge&labelColor=0F172A"/><br/><br/>
+<b>Low-Code Platform</b><br/>
+<sub>Next.js · React · Node.js</sub>
 </td>
 </tr>
 </table>
 
- </div>
-<br/>
-
-<!-- ====================================================== -->
-<!--                IMPACT METRICS                          -->
-<!-- ====================================================== -->
-## 💥 Real Impact @ NearTekPod
-
-<div align="center">
-
-| Metric | Result | Project |
-|:--|:--:|:--|
-| 📉 Manual Data Entry | **↓ 40%** | WordPress Form Builder Plugin |
-| ☁️ AWS Monthly Costs | **↓ 15%** | Warranty Platform — AMI Recycling |
-| ⚡ Workflow Efficiency | **↑ 25%** | Next.js Low-Code Platform |
-
 </div>
 
 <br/>
 
-<!-- ====================================================== -->
-<!--                TECH STACK — SKILL ICONS                -->
-<!-- ====================================================== -->
-## 🛠️ Tech Stack
+## 📌 Selected Work
 
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind&perline=8"/>
-
-**Backend & CMS**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress&perline=8"/>
-
-**Database & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&perline=8"/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux&perline=8"/>
-
-</div>
-
-<br/>
-
-<!-- ====================================================== -->
-<!--                FEATURED PROJECTS                       -->
-<!-- ====================================================== -->
-## 📌 Featured Projects
-
-<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top">
 
-### 🔧 Warranty & Claim Platform
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🛡️ Warranty & Claim Platform
+`WordPress` `PHP` `AWS EC2` `S3` `MySQL`
 
-End-to-end device registration & claims management system on WordPress + PHP, deployed on AWS EC2 with automated AMI recycling.
+Device registration and claims management, deployed on EC2 with automated AMI recycling.
 
-> ☁️ **Cut cloud costs by 15%**
+**→ 15% lower monthly cloud cost**
 
 </td>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top">
 
 ### 🧩 WordPress Form Builder Plugin
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat-square)
+`PHP` `jQuery` `AJAX` `MySQL`
 
-Drag-and-drop form builder plugin with AJAX save/fetch, email notifications & DataTables admin panel integration.
+Drag-and-drop forms, Custom Post Types, AJAX save/fetch and a DataTables admin dashboard.
 
-> 📉 **Reduced data entry by 40%**
+**→ 40% less manual data entry**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top">
 
-### 💼 Low-Code Platform (LCP)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+### 📅 Leave Tracker
+`React` `Node.js` `MongoDB` `REST API`
 
-Internal business workflow tool with dynamic UI management built in Next.js for streamlined operations.
-
-> ⚡ **Improved efficiency by 25%**
+Role-based leave requests, manager approve/reject and email notifications.
 
 </td>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top">
 
-### 🌐 Personal Portfolio Website
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+### ⚙️ Low-Code Platform
+`Next.js` `React` `Node.js`
 
-Sleek portfolio built with React + TypeScript + Vite + TailwindCSS with EmailJS contact integration, deployed on Vercel.
+Internal workflow tool with dynamic UI management.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel)](https://sureshkumar-portfolio.vercel.app)
+**→ 25% better team efficiency**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌐 Portfolio · [Live site →](https://sureshkumar-portfolio.vercel.app)
+`React` `TypeScript` `Vite` `Tailwind CSS` `EmailJS` `Vercel`
 
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
-<!-- ====================================================== -->
-<!--                GITHUB STATS                            -->
-<!-- ====================================================== -->
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,wordpress,mongodb,mysql,aws,git,github,postman,vscode,vercel,linux&perline=10"/>
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud_(OCI)-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+<br/>
+
+## 📜 Certifications
+
+| Certification | Issuer | Date |
+|:--|:--|:--|
+| 🤖 **Oracle Agentic AI Foundations Associate** | Oracle | Jul 2026 |
+| 🧠 Introduction to Generative AI | Skill India Digital Hub | Nov 2025 |
+| ☁️ Oracle Cloud Infrastructure Foundations Associate | Oracle | Feb 2025 |
+| ☁️ AWS Cloud Basics | Simplilearn | Jan 2025 |
+| ⚛️ MERN Stack Developer | Simplilearn | Jun 2024 |
+
+<br/>
+
+## 🎓 Education
+
+**B.E. Electronics & Communication Engineering** · K. Ramakrishnan College of Engineering, Tiruchirappalli · 2019–2023
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sirz55&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="47%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirz55&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="41%"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sirz55&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="60%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sirz55&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true" width="96%"/>
-</div>
-
-<br/>
-
-<!-- ====================================================== -->
-<!--                TROPHIES                                -->
-<!-- ====================================================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sirz55&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=5&row=1&column=7"/>
-</div>
-
-<br/>
-
-<!-- ====================================================== -->
-<!--               CONTRIBUTION SNAKE                       -->
-<!-- ====================================================== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Sirz55/Sirz55/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
-<br/>
-
-<!-- ====================================================== -->
-<!--                CERTIFICATIONS                          -->
-<!-- ====================================================== -->
-## 📜 Certifications
-
-<div align="center">
-
-[![Oracle OCI](https://img.shields.io/badge/Oracle_OCI_Foundation-2024-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)
-[![MERN Stack](https://img.shields.io/badge/MERN_Stack-Simplilearn_2024-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://simplilearn.com)
-[![AWS](https://img.shields.io/badge/AWS_Cloud_Basics-Simplilearn_2024-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://simplilearn.com)
-[![PHP](https://img.shields.io/badge/PHP_Fundamentals-Simplilearn_2024-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://simplilearn.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sirz55&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sirz55&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=1D4ED8&icon_color=1D4ED8&text_color=24292F"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirz55&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=C9D1D9">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirz55&layout=compact&hide_border=true&theme=transparent&title_color=1D4ED8&text_color=24292F"/>
+</picture>
 
 </div>
 
 <br/>
-
-<!-- ====================================================== -->
-<!--          OPEN TO ROLES - SPOTIFY CARD STYLE            -->
-<!-- ====================================================== -->
-## 🎯 Open To These Roles
- 
-<div align="center">
- 
-![Now Hiring](https://img.shields.io/badge/●_NOW_HIRING-2ecc71?style=for-the-badge&labelColor=0D1117&color=0D1117&logoColor=2ecc71)
- 
-<br/>
- 
-![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-161b22?style=flat-square&logo=react&logoColor=58A6FF)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-161b22?style=flat-square&logo=googleanalytics&logoColor=FF9900)
-![Prompt Engineer](https://img.shields.io/badge/Prompt_Engineer-161b22?style=flat-square&logo=openai&logoColor=9b59b6)
-![Functional Consultant](https://img.shields.io/badge/Functional_Consultant-161b22?style=flat-square&logo=salesforce&logoColor=2ecc71)
-![Business Analyst](https://img.shields.io/badge/Business_Analyst-161b22?style=flat-square&logo=notion&logoColor=e74c3c)
-![AI Tools Trainer](https://img.shields.io/badge/AI_Tools_Trainer-161b22?style=flat-square&logo=anthropic&logoColor=FF9900)
- 
-<br/>
- 
-![Pan India](https://img.shields.io/badge/Pan_India-1f6feb?style=flat-square)
-![Remote](https://img.shields.io/badge/Remote-238636?style=flat-square)
-![Hybrid](https://img.shields.io/badge/Hybrid-8957e5?style=flat-square)
-![On-site](https://img.shields.io/badge/On--site-da3633?style=flat-square)
-![Immediate Joiner](https://img.shields.io/badge/Immediate_Joiner-2ecc71?style=flat-square)
- 
-</div>
- 
-<br/>
-<!-- ====================================================== -->
-<!--                CONNECT                                 -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/sureshmurugan919@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshmurugan919@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Sureshkumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshkumar-m-77424723a)
-[![Portfolio](https://img.shields.io/badge/sureshkumar--portfolio.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sureshkumar-portfolio.vercel.app)
+**Hiring for a full-stack or AI-enabled developer role? I'd love to hear from you.**
+
+<a href="mailto:sureshmurugan919@gmail.com"><img src="https://img.shields.io/badge/sureshmurugan919@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sureshkumar-m-77424723a"><img src="https://img.shields.io/badge/Sureshkumar_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sureshkumar-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Sirz55&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-  <i>If you find my work useful, feel free to star my repos and connect with me!</i>
-</div>
-
-<br/>
-
-<!-- ====================================================== -->
-<!--                BOTTOM WAVE FOOTER                      -->
-<!-- ====================================================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0E7AC4,55:0B1B4D,100:050816&section=footer"/>
